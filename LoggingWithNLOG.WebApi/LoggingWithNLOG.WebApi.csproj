@@ -4,5 +4,17 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="NLog.Config" Version="4.7.3" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.9.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="C:\Users\iammu\.nuget\packages\nlog.config\4.7.3\contentFiles\any\any\NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>
