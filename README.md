@@ -10,4 +10,4 @@ Here is a simple and essential guide to one of the most popular logging Framewor
 -  Logging to Database with NLog
 
 Read more here -
-https://www.codewithmukesh.com/…/logging-with-nlog-in-aspn…/
+https://www.codewithmukesh.com/blog/logging-with-nlog-in-aspnet-core/
